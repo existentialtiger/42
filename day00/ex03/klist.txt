@@ -1,0 +1,6 @@
+Credentials cache: API:33567
+        Principal: edehmlow@42.US.ORG
+
+  Issued                Expires               Principal
+Mar 13 17:07:59 2018  Mar 14 03:07:59 2018  krbtgt/42.US.ORG@42.US.ORG
+Mar 13 17:08:41 2018  Mar 14 03:07:59 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
